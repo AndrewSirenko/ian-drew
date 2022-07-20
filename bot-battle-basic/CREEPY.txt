@@ -1,0 +1,95 @@
+1: pong
+2: orange is better
+3: banana is better
+4: orange is wayyyyy better
+5: banana is wayyyyy better
+6: orange is 1x better
+7: banana is 2x better
+8: orange is 2x better
+9: banana is 4x better
+10: banana is 6x better
+11: orange is 3x better
+12: banana is 8x better
+13: banana is 10x better
+14: orange is 4x better
+15: pong
+16: banana is 12x better
+17: orange is better
+18: banana is 14x better
+19: banana is 16x better
+20: pong
+21: orange is better
+22: pong
+23: banana is 18x better
+24: banana is 20x better
+25: orange is better
+26: banana is better
+27: banana is better
+28: orange is wayyyyy better
+29: pong
+30: banana is better
+31: orange is wayyyyy better
+32: orange is better
+33: orange is wayyyyy better
+34: banana is wayyyyy better
+35: banana is 2x better
+36: orange is 1x better
+37: banana is 4x better
+38: banana is 6x better
+39: orange is 2x better
+40: banana is 8x better
+41: orange is 3x better
+42: orange is 4x better
+43: banana is 10x better
+44: banana is 12x better
+45: banana is 14x better
+46: banana is 16x better
+47: banana is 18x better
+48: banana is 20x better
+49: banana is wayyyyy better
+50: orange is 1x better
+51: orange is 2x better
+52: orange is 3x better
+53: orange is 4x better
+54: banana is 2x better
+55: banana is 4x better
+56: banana is 6x better
+57: banana is 8x better
+58: banana is 10x better
+59: banana is 12x better
+60: banana is 14x better
+61: banana is 16x better
+62: banana is 18x better
+63: banana is 20x better
+64: banana is better
+65: orange is wayyyyy better
+66: banana is wayyyyy better
+67: banana is 2x better
+68: orange is 1x better
+69: banana is 4x better
+70: orange is 2x better
+71: banana is 6x better
+72: orange is 3x better
+73: orange is 4x better
+74: banana is 8x better
+75: banana is 10x better
+76: banana is 12x better
+77: banana is 14x better
+78: banana is 16x better
+79: banana is 18x better
+80: banana is 20x better
+81: banana is wayyyyy better
+82: banana is 2x better
+83: orange is 1x better
+84: banana is 4x better
+85: orange is 2x better
+86: orange is 3x better
+87: orange is 4x better
+88: banana is 6x better
+89: banana is 8x better
+90: banana is 10x better
+91: banana is 12x better
+92: banana is 14x better
+93: banana is 16x better
+94: banana is 18x better
+95: banana is 20x better
