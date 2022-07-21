@@ -5,16 +5,16 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-function number_grabber() {
-    
+function number_grabber(message) {
+    console.log(message);
+    new_message = message + " and Drew's message"
+
+    return new_message 
 }
 
 rl.question("What is your name? ", function (answer) {
-  
-
-
-
-  console.log("\n\nClosing the interface");
-  rl.close();
+    number_grabber(answer)
+    console.log("\n\nClosing the interface");
+    rl.close();
 });
 
